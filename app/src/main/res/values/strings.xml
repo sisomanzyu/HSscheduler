@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">HS scheduler</string>
+    <string name="select_subject_them_name">教科の設定</string>
+    <string name="title_taskList">タスク一覧</string>
+    <string name="title_event">時間割</string>
+    <string name="title_taskAdd">タスクの追加</string>
+    <string name="back">戻る</string>
+    <string name="delete">削除</string>
+
+    <string name="ic_event">時間割</string>
+
+    <string name="sunday">日</string>
+    <string name="monday">月</string>
+    <string name="tuesday">火</string>
+    <string name="wednesday">水</string>
+    <string name="thursday">木</string>
+    <string name="friday">金</string>
+    <string name="saturday">土</string>
+
+    <!--subjects-->
+    <string name="genbun">現文</string>
+    <string name="koten">古典</string>
+    <string name="suu1">数Ⅰ</string>
+    <string name="suuA">数A</string>
+    <string name="eihyou1">英語\n表現Ⅰ</string>
+    <string name="komyuei1">コミュ\n英語Ⅰ</string>
+    <string name="tiri">地理</string>
+    <string name="seibutu">生物\n基礎</string>
+    <string name="kagaku">化学\n基礎</string>
+    <string name="nihonsi">日本史</string>
+    <string name="taiiku">体育</string>
+    <string name="hoken">保健</string>
+    <string name="syakaitozyouhou">社会と\n情報</string>
+    <string name="onbisyo">音美書</string>
+    <string name="sougou">総合</string>HR
+    <string name="hr">HR
+    </string>
+
+
+</resources>
